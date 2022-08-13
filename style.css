@@ -358,22 +358,6 @@ width: 100%;
         padding: 0.5rem;
      }
 
-     /*styling the footer*/
-
-     .attribution {
-        font-family: "Raleway", sans-serif;
-        font-weight: 500;
-        font-size: 13px;
-        text-align: center;
-        color: var(--DesaturatedBlue);
-        
-     }
-
-     .attribution a {
-        color: var(--ModerateCyan);
-        text-decoration: none;
-     }
-
      /*desktop styling*/
 
      @media(min-width:768px) {
@@ -587,17 +571,6 @@ width: 100%;
         flex-direction: column;
         margin: 9rem 0rem 0rem 14rem;
     }
-
-    
-
-    
-    
-
-    /*.section2{
-        width: 100%;
-        background: url(./images/bg-curve-desktop.svg) no-repeat center center;
-        background-size: cover;   
-    }*/
 
 
 
