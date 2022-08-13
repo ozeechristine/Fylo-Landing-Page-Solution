@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ozeechristine/Fylo-Landing-Page-Solution](https://your-solution-url.com)
-- Live Site URL: [https://ozeechristine.github.io/Fylo-Landing-Page-Solution//](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ozeechristine/Fylo-Landing-Page-Solution)
+- Live Site URL: (https://ozeechristine.github.io/Fylo-Landing-Page-Solution/)
 
 
 
